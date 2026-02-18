@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "I don't",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-02-18T06:26:05.860247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/03_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker feat. Julie Bergan",
+      "has_synced": true,
+      "path": "select/04_I_Don't_Wanna_Go_Alan_Walker_feat._Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker;Julie Bergan",
+      "has_synced": true,
+      "path": "select/05_I_Don't_Wanna_Go_Alan_Walker;Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Memory I Don't Mess With",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/06_Memory_I_Don't_Mess_With_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "artist": "Barbara Mandrell",
+      "has_synced": false,
+      "path": "select/07_(If_Loving_You_Is_Wrong)_I_Don't_Want_To_Be_Right_Barbara_Mandrell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Darned If I Don't (Danged If I Do)",
+      "artist": "Shenandoah",
+      "has_synced": false,
+      "path": "select/08_Darned_If_I_Don't_(Danged_If_I_Do)_Shenandoah.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Darned If I Don't (Danged If I Do)",
+      "artist": "Shenandoah",
+      "has_synced": true,
+      "path": "select/09_Darned_If_I_Don't_(Danged_If_I_Do)_Shenandoah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Think I Don't Think About It",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/10_Don't_Think_I_Don't_Think_About_It_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home)",
+      "artist": "Elle King",
+      "has_synced": true,
+      "path": "select/11_Drunk_(And_I_Don't_Wanna_Go_Home)_Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home) - Acoustic",
+      "artist": "Elle King feat. Miranda Lambert",
+      "has_synced": true,
+      "path": "select/12_Drunk_(And_I_Don't_Wanna_Go_Home)_-_Acoustic_Elle_King_feat._Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home) (Acoustic)",
+      "artist": "Elle King",
+      "has_synced": true,
+      "path": "select/13_Drunk_(And_I_Don't_Wanna_Go_Home)_(Acoustic)_Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Don't Call Him Daddy",
+      "artist": "Doug Supernaw",
+      "has_synced": true,
+      "path": "select/14_I_Don't_Call_Him_Daddy_Doug_Supernaw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/15_I_Don't_Care_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Don't Care (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/16_I_Don't_Care_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) - 2006 Remastered Version",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/17_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_-_2006_Remastered_Version_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) (2006 Remastered LP Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/18_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_(2006_Remastered_LP_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I don't",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_I_don't_メガテラ・ゼロ.txt"
+    }
+  ]
+}
